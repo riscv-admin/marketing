@@ -55,7 +55,7 @@ Let’s keep the RISC-V enthusiasm going!
 * Members who join at Premier level get a stand-alone tweet from RISC-V Twitter.
 * Premier level members get 2 social media spotlights per month.
 * Strategic level members get 1 social media spotlight on per month.
-# Member press releases will be shared via a retweet (Twitter) and a share (LinkedIn). It is preferred the RT and share comes from a person at the organization and not the corporate handle.
+* Member press releases will be shared via a retweet (Twitter) and a share (LinkedIn). It is preferred the RT and share comes from a person at the organization and not the corporate handle.
 * Sharing of upcoming event information is limited to RISC-V events, events where there is RISC-V content and are posted on the RISC-V website, and Community events (meetups).
 * Member events such as webinars may be re-shared on RISC-V social channels, depending on the open availability on the RISC-V social channels.
 * Images shared, unless specifically credited back to a community member, will meet the requirements of “free for commercial use” and “no attribution required.”
