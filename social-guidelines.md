@@ -22,7 +22,7 @@ To do this:
 * Share member, organizational, and community-sourced posts that are informational, engaging, and ecosystem-focused.
 * Engage with the community through retweets, sharing, and original posting of community content.
 
-## Engagement is important!##
+## Engagement is important! ##
 Engagement is the most important tool we have in our social tool bag! We want to retweet on Twitter and share on LinkedIn RISC-V content shared by the community to help bring broader awareness to those in the community that are talking about RISC-V.
 
 Conversely, we want the community to re-share the content RISC-V posts to bring awareness to RISC-V outside the community that already knows us.
