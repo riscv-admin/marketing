@@ -39,7 +39,7 @@ Other topics are welcome, but it needs to have a direct link to the RISC-V commu
 * Announcements or press releases are not posted to the blog page. These are instead posted to [In the News](https://riscv.org/news/in-the-news/)
 
 ## Process ##
-To submit a blog for consideration, email content@riscv.org with the blog idea or blog content. The RISC-V content team will review the content for applicability to the RISC-V blog. We will respond with a proposed date of publication or if it’s not suitable for the RISC-V blog, we will provide feedback and direction.
+To submit a blog for consideration, fill out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdMaDeYP7HCusdyG145g3DGdBbJr9rtDnZwxTKEp2DhoB9JNA/viewform?usp=sf_link) with the blog idea and links to the content. The RISC-V content team will review the content for applicability to the RISC-V blog. We will respond with a proposed date of publication or if it’s not suitable for the RISC-V blog, we will provide feedback and direction.
 
 If you are submitting an article or presentation that already exists, please send it in its entirety with a note on the expressed permission from the owner of the content.
 
